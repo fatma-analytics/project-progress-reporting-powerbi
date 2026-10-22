@@ -1,0 +1,38 @@
+[
+  {
+    "Control":"Physical % > 100",
+    "Issue Count":1,
+    "Status":"REVIEW",
+    "Action":"bloquer la publication et borner apr\u00e8s correction"
+  },
+  {
+    "Control":"Completed without Finish",
+    "Issue Count":1,
+    "Status":"REVIEW",
+    "Action":"compl\u00e9ter la date de fin ou repasser en In Progress"
+  },
+  {
+    "Control":"BL Finish before BL Start",
+    "Issue Count":1,
+    "Status":"REVIEW",
+    "Action":"corriger les dates dans P6"
+  },
+  {
+    "Control":"Missing Discipline",
+    "Issue Count":1,
+    "Status":"REVIEW",
+    "Action":"renseigner la discipline ou affecter Unassigned"
+  },
+  {
+    "Control":"Duplicate Activity ID",
+    "Issue Count":1,
+    "Status":"REVIEW",
+    "Action":"d\u00e9dupliquer avant chargement"
+  },
+  {
+    "Control":"Missing Data Date",
+    "Issue Count":0,
+    "Status":"PASS",
+    "Action":"rejeter un snapshot sans Data Date"
+  }
+]

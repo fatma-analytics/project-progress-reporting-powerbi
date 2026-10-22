@@ -1,0 +1,300 @@
+Activity ID,Activity Name,WBS Code,Discipline,Area,BL Start,BL Finish,Start,Finish,Planned Duration,Budgeted Labor Units,Physical % Complete,Activity Status,Data Date
+A0001,Civil work package 001,WBS.01.01,Civil,Area A,2025-06-16,2025-11-07,2025-06-16,,144,1339.0,1.0,In Progress,2025-09-30
+A0002,Mechanical work package 002,WBS.01.01,Mechanical,Area A,2025-01-14,2025-06-09,2025-01-14,,146,1511.8,0.96,Complete,2025-09-30
+A0003,Piping work package 003,WBS.01.01,Piping,Area A,2025-07-10,2025-07-10,2025-07-10,,64,1132.4,0.96,In Progress,2025-09-30
+A0004,Electrical work package 004,WBS.01.01,Unassigned,Area A,2025-04-01,2025-07-01,2025-04-01,,91,1099.0,0.96,In Progress,2025-09-30
+A0006,Civil work package 006,WBS.01.01,Civil,Area B,2025-08-29,2025-10-20,2025-08-29,,52,1747.7,0.6068,In Progress,2025-09-30
+A0007,Mechanical work package 007,WBS.01.01,Mechanical,Area B,2025-06-22,2025-08-23,2025-06-22,,62,1505.4,0.96,In Progress,2025-09-30
+A0008,Piping work package 008,WBS.01.01,Piping,Area B,2025-02-07,2025-07-05,2025-02-07,,148,1408.3,0.96,In Progress,2025-09-30
+A0009,Electrical work package 009,WBS.01.01,Electrical,Area B,2026-01-12,2026-04-26,,,104,649.1,0.0,Not Started,2025-09-30
+A0010,Instrumentation work package 010,WBS.01.01,Instrumentation,Area B,2026-01-22,2026-04-18,,,86,285.7,0.0,Not Started,2025-09-30
+A0011,Civil work package 011,WBS.01.02,Civil,Area C,2025-08-18,2025-11-07,2025-08-18,,81,123.7,0.3988,In Progress,2025-09-30
+A0012,Mechanical work package 012,WBS.01.02,Mechanical,Area C,2026-01-31,2026-03-31,,,59,785.9,0.0,Not Started,2025-09-30
+A0013,Piping work package 013,WBS.01.02,Piping,Area C,2025-12-17,2026-02-07,,,52,1615.2,0.0,Not Started,2025-09-30
+A0014,Electrical work package 014,WBS.01.02,Electrical,Area C,2025-12-23,2026-05-05,,,133,92.0,0.0,Not Started,2025-09-30
+A0015,Instrumentation work package 015,WBS.01.02,Instrumentation,Area C,2026-02-15,2026-04-24,,,68,972.3,0.0,Not Started,2025-09-30
+A0016,Civil work package 016,WBS.01.02,Civil,Area A,2025-05-08,2025-06-11,2025-05-08,,34,1128.5,0.96,In Progress,2025-09-30
+A0017,Mechanical work package 017,WBS.01.02,Mechanical,Area A,2026-03-05,2026-05-03,,,59,1236.1,0.0,Not Started,2025-09-30
+A0018,Piping work package 018,WBS.01.02,Piping,Area A,2025-10-05,2026-01-07,,,94,235.3,0.0,Not Started,2025-09-30
+A0019,Electrical work package 019,WBS.01.02,Electrical,Area A,2025-10-24,2025-11-24,,,31,960.8,0.0,Not Started,2025-09-30
+A0020,Instrumentation work package 020,WBS.01.02,Instrumentation,Area A,2026-02-12,2026-03-30,,,46,666.6,0.0,Not Started,2025-09-30
+A0021,Civil work package 021,WBS.01.03,Civil,Area B,2025-08-21,2025-10-19,2025-08-21,,59,240.1,0.6628,In Progress,2025-09-30
+A0022,Mechanical work package 022,WBS.01.03,Mechanical,Area B,2025-11-14,2026-03-31,,,137,1605.8,0.0,Not Started,2025-09-30
+A0023,Piping work package 023,WBS.01.03,Piping,Area B,2025-01-08,2025-02-26,2025-01-08,2025-02-26,49,1023.8,0.9988,Complete,2025-09-30
+A0024,Electrical work package 024,WBS.01.03,Electrical,Area B,2025-05-25,2025-09-21,2025-05-25,2025-09-21,119,1197.4,0.9965,Complete,2025-09-30
+A0025,Instrumentation work package 025,WBS.01.03,Instrumentation,Area B,2025-04-30,2025-06-28,2025-04-30,,59,1753.6,0.96,In Progress,2025-09-30
+A0026,Civil work package 026,WBS.01.03,Civil,Area C,2025-09-11,2025-12-09,2025-09-11,,89,415.8,0.2284,In Progress,2025-09-30
+A0027,Mechanical work package 027,WBS.01.03,Mechanical,Area C,2025-01-12,2025-06-02,2025-01-12,2025-06-02,141,816.5,1.0,Complete,2025-09-30
+A0028,Piping work package 028,WBS.01.03,Piping,Area C,2025-03-19,2025-06-23,2025-03-19,,96,1690.2,0.96,In Progress,2025-09-30
+A0029,Electrical work package 029,WBS.01.03,Electrical,Area C,2026-01-18,2026-05-16,,,118,1278.9,0.0,Not Started,2025-09-30
+A0030,Instrumentation work package 030,WBS.01.03,Instrumentation,Area C,2026-01-13,2026-06-01,,,139,959.5,0.0,Not Started,2025-09-30
+A0031,Civil work package 031,WBS.01.04,Civil,Area A,2026-01-23,2026-04-03,,,70,726.0,0.0,Not Started,2025-09-30
+A0032,Mechanical work package 032,WBS.01.04,Mechanical,Area A,2025-05-09,2025-08-17,2025-05-09,,100,132.5,0.96,In Progress,2025-09-30
+A0033,Piping work package 033,WBS.01.04,Piping,Area A,2025-12-03,2026-01-27,,,55,1151.4,0.0,Not Started,2025-09-30
+A0034,Electrical work package 034,WBS.01.04,Electrical,Area A,2025-11-14,2026-04-10,,,147,968.0,0.0,Not Started,2025-09-30
+A0035,Instrumentation work package 035,WBS.01.04,Instrumentation,Area A,2025-01-16,2025-06-10,2025-01-16,,145,1517.9,0.9637,In Progress,2025-09-30
+A0036,Civil work package 036,WBS.01.04,Civil,Area B,2025-08-30,2025-12-23,2025-08-30,,115,1215.5,0.2263,In Progress,2025-09-30
+A0037,Mechanical work package 037,WBS.01.04,Mechanical,Area B,2025-06-08,2025-10-06,2025-06-08,,120,104.8,0.8029,In Progress,2025-09-30
+A0038,Piping work package 038,WBS.01.04,Piping,Area B,2025-08-05,2025-10-30,2025-08-05,,86,377.9,0.6022,In Progress,2025-09-30
+A0039,Electrical work package 039,WBS.01.04,Electrical,Area B,2025-06-16,2025-09-29,2025-06-16,2025-09-29,105,945.4,1.0,Complete,2025-09-30
+A0040,Instrumentation work package 040,WBS.01.04,Instrumentation,Area B,2025-01-17,2025-04-27,2025-01-17,,100,1697.2,0.96,In Progress,2025-09-30
+A0041,Civil work package 041,WBS.01.05,Civil,Area C,2026-02-14,2026-05-01,,,76,1733.2,0.0,Not Started,2025-09-30
+A0042,Mechanical work package 042,WBS.01.05,Mechanical,Area C,2026-01-04,2026-02-05,,,32,1480.9,0.0,Not Started,2025-09-30
+A0043,Piping work package 043,WBS.01.05,Piping,Area C,2025-11-18,2026-03-24,,,126,565.1,0.0,Not Started,2025-09-30
+A0044,Electrical work package 044,WBS.01.05,Electrical,Area C,2025-06-14,2025-10-15,2025-06-14,,123,666.2,0.9283,In Progress,2025-09-30
+A0045,Instrumentation work package 045,WBS.01.05,Instrumentation,Area C,2025-02-19,2025-07-07,2025-02-19,2025-07-07,138,949.0,1.0,Complete,2025-09-30
+A0046,Civil work package 046,WBS.01.05,Civil,Area A,2026-02-18,2026-05-27,,,98,1166.8,0.0,Not Started,2025-09-30
+A0047,Mechanical work package 047,WBS.01.05,Mechanical,Area A,2025-12-12,2026-04-15,,,124,236.9,0.0,Not Started,2025-09-30
+A0048,Piping work package 048,WBS.01.05,Piping,Area A,2025-06-05,2025-07-19,2025-06-05,,44,325.9,0.9825,In Progress,2025-09-30
+A0049,Electrical work package 049,WBS.01.05,Electrical,Area A,2025-02-06,2025-06-14,2025-02-06,,128,1294.7,0.96,In Progress,2025-09-30
+A0050,Instrumentation work package 050,WBS.01.05,Instrumentation,Area A,2025-12-06,2026-03-13,,,97,809.7,0.0,Not Started,2025-09-30
+A0051,Civil work package 051,WBS.02.01,Civil,Area B,2025-01-30,2025-03-15,2025-01-30,,44,282.1,0.9794,In Progress,2025-09-30
+A0052,Mechanical work package 052,WBS.02.01,Mechanical,Area B,2025-05-08,2025-09-19,2025-05-08,2025-09-19,134,464.6,1.0,Complete,2025-09-30
+A0053,Piping work package 053,WBS.02.01,Piping,Area B,2026-02-26,2026-05-29,,,92,1162.6,0.0,Not Started,2025-09-30
+A0054,Electrical work package 054,WBS.02.01,Electrical,Area B,2025-01-25,2025-03-29,2025-01-25,2025-03-29,63,1714.7,1.0,Complete,2025-09-30
+A0055,Instrumentation work package 055,WBS.02.01,Instrumentation,Area B,2025-07-24,2025-10-04,2025-07-24,,72,1083.9,0.7769,In Progress,2025-09-30
+A0056,Civil work package 056,WBS.02.01,Civil,Area C,2025-10-27,2025-12-15,,,49,1646.8,0.0,Not Started,2025-09-30
+A0057,Mechanical work package 057,WBS.02.01,Mechanical,Area C,2026-03-06,2026-04-23,,,48,1101.9,0.0,Not Started,2025-09-30
+A0058,Piping work package 058,WBS.02.01,Piping,Area C,2025-01-30,2025-06-12,2025-01-30,2025-06-12,133,1478.2,1.0,Complete,2025-09-30
+A0059,Electrical work package 059,WBS.02.01,Electrical,Area C,2025-07-18,2025-09-01,2025-07-18,,45,1721.0,0.9914,In Progress,2025-09-30
+A0060,Instrumentation work package 060,WBS.02.01,Instrumentation,Area C,2025-02-23,2025-06-13,2025-02-23,2025-06-13,110,974.9,1.0,Complete,2025-09-30
+A0061,Civil work package 061,WBS.02.02,Civil,Area A,2026-01-17,2026-04-05,,,78,310.5,0.0,Not Started,2025-09-30
+A0062,Mechanical work package 062,WBS.02.02,Mechanical,Area A,2025-03-05,2025-04-05,2025-03-05,,31,683.0,0.9736,In Progress,2025-09-30
+A0063,Piping work package 063,WBS.02.02,Piping,Area A,2025-08-15,2025-12-17,2025-08-15,,124,762.1,0.3565,In Progress,2025-09-30
+A0064,Electrical work package 064,WBS.02.02,Electrical,Area A,2025-08-05,2025-10-13,2025-08-05,,69,1169.4,0.6839,In Progress,2025-09-30
+A0065,Instrumentation work package 065,WBS.02.02,Instrumentation,Area A,2026-01-26,2026-04-22,,,86,1228.2,0.0,Not Started,2025-09-30
+A0066,Civil work package 066,WBS.02.02,Civil,Area B,2025-04-04,2025-06-16,2025-04-04,,73,945.9,0.9733,In Progress,2025-09-30
+A0067,Mechanical work package 067,WBS.02.02,Mechanical,Area B,2025-12-18,2026-04-16,,,119,397.4,0.0,Not Started,2025-09-30
+A0068,Piping work package 068,WBS.02.02,Piping,Area B,2025-07-23,2025-11-19,2025-07-23,,119,143.1,0.5371,In Progress,2025-09-30
+A0069,Electrical work package 069,WBS.02.02,Electrical,Area B,2025-02-21,2025-05-15,2025-02-21,,83,996.1,0.96,In Progress,2025-09-30
+A0070,Instrumentation work package 070,WBS.02.02,Instrumentation,Area B,2025-02-26,2025-07-12,2025-02-26,,136,1101.0,0.96,In Progress,2025-09-30
+A0071,Civil work package 071,WBS.02.03,Civil,Area C,2025-09-15,2026-01-12,2025-09-15,,119,822.5,0.1548,In Progress,2025-09-30
+A0072,Mechanical work package 072,WBS.02.03,Mechanical,Area C,2025-06-08,2025-11-03,2025-06-08,,148,1121.9,0.652,In Progress,2025-09-30
+A0073,Piping work package 073,WBS.02.03,Piping,Area C,2025-03-21,2025-08-05,2025-03-21,,137,218.0,0.96,In Progress,2025-09-30
+A0074,Electrical work package 074,WBS.02.03,Electrical,Area C,2026-02-26,2026-06-30,,,133,1485.4,0.0,Not Started,2025-09-30
+A0075,Instrumentation work package 075,WBS.02.03,Instrumentation,Area C,2025-09-08,2025-11-10,2025-09-08,,63,1403.5,0.3026,In Progress,2025-09-30
+A0076,Civil work package 076,WBS.02.03,Civil,Area A,2025-02-24,2025-06-07,2025-02-24,,103,576.4,0.96,In Progress,2025-09-30
+A0077,Mechanical work package 077,WBS.02.03,Mechanical,Area A,2025-05-30,2025-07-15,2025-05-30,2025-07-15,46,189.0,1.0,Complete,2025-09-30
+A0078,Piping work package 078,WBS.02.03,Piping,Area A,2025-11-28,2026-03-09,,,101,891.1,0.0,Not Started,2025-09-30
+A0079,Electrical work package 079,WBS.02.03,Electrical,Area A,2026-02-13,2026-04-05,,,51,194.4,0.0,Not Started,2025-09-30
+A0080,Instrumentation work package 080,WBS.02.03,Instrumentation,Area A,2025-04-02,2025-05-21,2025-04-02,2025-05-21,49,362.5,0.9992,Complete,2025-09-30
+A0081,Civil work package 081,WBS.02.04,Civil,Area B,2025-06-23,2025-10-28,2025-06-23,,127,835.3,0.7487,In Progress,2025-09-30
+A0082,Mechanical work package 082,WBS.02.04,Mechanical,Area B,2025-04-15,2025-08-30,2025-04-15,,137,740.3,0.9736,In Progress,2025-09-30
+A0083,Piping work package 083,WBS.02.04,Piping,Area B,2025-03-06,2025-07-09,2025-03-06,,125,1146.5,0.96,In Progress,2025-09-30
+A0084,Electrical work package 084,WBS.02.04,Electrical,Area B,2025-04-22,2025-08-19,2025-04-22,,119,137.7,0.96,In Progress,2025-09-30
+A0085,Instrumentation work package 085,WBS.02.04,Instrumentation,Area B,2025-02-22,2025-07-03,2025-02-22,,131,299.3,0.96,In Progress,2025-09-30
+A0086,Civil work package 086,WBS.02.04,Civil,Area C,2025-11-11,2026-02-25,,,106,1273.6,0.0,Not Started,2025-09-30
+A0087,Mechanical work package 087,WBS.02.04,Mechanical,Area C,2025-07-23,2025-12-13,2025-07-23,,143,343.8,0.4789,In Progress,2025-09-30
+A0088,Piping work package 088,WBS.02.04,Piping,Area C,2025-11-01,2026-03-21,,,140,1296.5,0.0,Not Started,2025-09-30
+A0089,Electrical work package 089,WBS.02.04,Electrical,Area C,2026-02-11,2026-06-30,,,141,855.4,0.0,Not Started,2025-09-30
+A0090,Instrumentation work package 090,WBS.02.04,Instrumentation,Area C,2025-01-29,2025-04-09,2025-01-29,,70,1460.9,0.96,In Progress,2025-09-30
+A0091,Civil work package 091,WBS.02.05,Civil,Area A,2025-06-03,2025-08-13,2025-06-03,,71,1348.5,0.96,In Progress,2025-09-30
+A0092,Mechanical work package 092,WBS.02.05,Mechanical,Area A,2025-08-08,2025-10-27,2025-08-08,,80,1653.5,0.5708,In Progress,2025-09-30
+A0093,Piping work package 093,WBS.02.05,Piping,Area A,2025-02-11,2025-07-10,2025-02-11,,149,943.8,0.96,In Progress,2025-09-30
+A0094,Electrical work package 094,WBS.02.05,Electrical,Area A,2025-04-04,2025-05-26,2025-04-04,,52,142.9,0.9662,In Progress,2025-09-30
+A0095,Instrumentation work package 095,WBS.02.05,Instrumentation,Area A,2025-08-19,2025-11-09,2025-08-19,,82,769.3,0.4665,In Progress,2025-09-30
+A0096,Civil work package 096,WBS.02.05,Civil,Area B,2025-10-09,2025-12-27,,,79,123.7,0.0,Not Started,2025-09-30
+A0097,Mechanical work package 097,WBS.02.05,Mechanical,Area B,2025-01-14,2025-02-25,2025-01-14,,42,1455.9,0.96,In Progress,2025-09-30
+A0098,Piping work package 098,WBS.02.05,Piping,Area B,2025-11-12,2026-03-24,,,132,1508.0,0.0,Not Started,2025-09-30
+A0099,Electrical work package 099,WBS.02.05,Electrical,Area B,2025-01-11,2025-02-20,2025-01-11,,40,437.6,0.96,In Progress,2025-09-30
+A0100,Instrumentation work package 100,WBS.02.05,Instrumentation,Area B,2025-12-23,2026-03-04,,,71,526.2,0.0,Not Started,2025-09-30
+A0101,Civil work package 101,WBS.03.01,Civil,Area C,2025-08-31,2025-11-21,2025-08-31,,82,586.5,0.4074,In Progress,2025-09-30
+A0102,Mechanical work package 102,WBS.03.01,Mechanical,Area C,2026-01-25,2026-05-30,,,125,811.4,0.0,Not Started,2025-09-30
+A0103,Piping work package 103,WBS.03.01,Piping,Area C,2025-03-06,2025-07-14,2025-03-06,,130,1773.2,0.96,In Progress,2025-09-30
+A0104,Electrical work package 104,WBS.03.01,Electrical,Area C,2025-05-03,2025-08-07,2025-05-03,2025-08-07,96,1200.4,1.0,Complete,2025-09-30
+A0105,Instrumentation work package 105,WBS.03.01,Instrumentation,Area C,2025-03-22,2025-08-08,2025-03-22,,139,800.3,0.96,In Progress,2025-09-30
+A0106,Civil work package 106,WBS.03.01,Civil,Area A,2025-02-10,2025-05-23,2025-02-10,,102,502.0,0.96,In Progress,2025-09-30
+A0107,Mechanical work package 107,WBS.03.01,Mechanical,Area A,2025-09-06,2025-12-02,2025-09-06,,87,1221.5,0.2887,In Progress,2025-09-30
+A0108,Piping work package 108,WBS.03.01,Piping,Area A,2025-08-07,2025-11-16,2025-08-07,,101,654.9,0.5785,In Progress,2025-09-30
+A0109,Electrical work package 109,WBS.03.01,Electrical,Area A,2025-04-21,2025-08-27,2025-04-21,,128,1455.0,0.9736,In Progress,2025-09-30
+A0110,Instrumentation work package 110,WBS.03.01,Instrumentation,Area A,2026-02-04,2026-03-22,,,46,1714.4,0.0,Not Started,2025-09-30
+A0111,Civil work package 111,WBS.03.02,Civil,Area B,2025-12-18,2026-04-06,,,109,1270.7,0.0,Not Started,2025-09-30
+A0112,Mechanical work package 112,WBS.03.02,Mechanical,Area B,2025-03-24,2025-06-30,2025-03-24,,98,1654.6,0.96,In Progress,2025-09-30
+A0113,Piping work package 113,WBS.03.02,Piping,Area B,2026-01-11,2026-05-22,,,131,628.9,0.0,Not Started,2025-09-30
+A0114,Electrical work package 114,WBS.03.02,Electrical,Area B,2025-02-08,2025-06-01,2025-02-08,,113,664.6,0.9916,In Progress,2025-09-30
+A0115,Instrumentation work package 115,WBS.03.02,Instrumentation,Area B,2025-05-23,2025-09-05,2025-05-23,2025-09-05,105,1603.9,0.9969,Complete,2025-09-30
+A0116,Civil work package 116,WBS.03.02,Civil,Area C,2025-07-31,2025-11-13,2025-07-31,,105,1582.7,0.5948,In Progress,2025-09-30
+A0117,Mechanical work package 117,WBS.03.02,Mechanical,Area C,2025-04-18,2025-05-31,2025-04-18,,43,690.0,0.96,In Progress,2025-09-30
+A0118,Piping work package 118,WBS.03.02,Piping,Area C,2025-06-20,2025-10-09,2025-06-20,,111,455.4,0.9712,In Progress,2025-09-30
+A0119,Electrical work package 119,WBS.03.02,Electrical,Area C,2025-09-26,2025-11-15,2025-09-26,,50,1784.8,0.1312,In Progress,2025-09-30
+A0120,Instrumentation work package 120,WBS.03.02,Instrumentation,Area C,2025-04-15,2025-06-05,2025-04-15,,51,459.2,0.96,In Progress,2025-09-30
+A0121,Civil work package 121,WBS.03.03,Civil,Area A,2025-11-01,2025-12-19,,,48,1483.2,0.0,Not Started,2025-09-30
+A0122,Mechanical work package 122,WBS.03.03,Mechanical,Area A,2025-02-14,2025-06-29,2025-02-14,,135,536.8,0.96,In Progress,2025-09-30
+A0123,Piping work package 123,WBS.03.03,Piping,Area A,2025-02-12,2025-05-02,2025-02-12,,79,721.0,0.96,In Progress,2025-09-30
+A0124,Electrical work package 124,WBS.03.03,Electrical,Area A,2026-01-07,2026-04-06,,,89,906.6,0.0,Not Started,2025-09-30
+A0125,Instrumentation work package 125,WBS.03.03,Instrumentation,Area A,2025-04-30,2025-09-12,2025-04-30,2025-09-12,135,1451.6,1.0,Complete,2025-09-30
+A0126,Civil work package 126,WBS.03.03,Civil,Area B,2025-09-29,2026-01-27,,,120,352.8,0.0,Not Started,2025-09-30
+A0127,Mechanical work package 127,WBS.03.03,Mechanical,Area B,2025-03-16,2025-07-22,2025-03-16,,128,1511.3,0.96,In Progress,2025-09-30
+A0128,Piping work package 128,WBS.03.03,Piping,Area B,2025-10-05,2026-01-07,,,94,1421.3,0.0,Not Started,2025-09-30
+A0129,Electrical work package 129,WBS.03.03,Electrical,Area B,2025-10-05,2026-02-23,,,141,256.3,0.0,Not Started,2025-09-30
+A0130,Instrumentation work package 130,WBS.03.03,Instrumentation,Area B,2025-02-03,2025-05-13,2025-02-03,,99,674.9,0.9612,In Progress,2025-09-30
+A0131,Civil work package 131,WBS.03.04,Civil,Area C,2025-10-26,2026-01-17,,,83,550.6,0.0,Not Started,2025-09-30
+A0132,Mechanical work package 132,WBS.03.04,Mechanical,Area C,2025-10-31,2025-12-26,,,56,221.7,0.0,Not Started,2025-09-30
+A0133,Piping work package 133,WBS.03.04,Piping,Area C,2025-07-05,2025-10-19,2025-07-05,,106,763.9,0.7336,In Progress,2025-09-30
+A0134,Electrical work package 134,WBS.03.04,Electrical,Area C,2025-04-07,2025-05-10,2025-04-07,,33,1200.9,0.96,In Progress,2025-09-30
+A0135,Instrumentation work package 135,WBS.03.04,Instrumentation,Area C,2025-12-03,2026-04-13,,,131,1389.0,0.0,Not Started,2025-09-30
+A0136,Civil work package 136,WBS.03.04,Civil,Area A,2025-02-25,2025-04-11,2025-02-25,,45,1259.2,0.96,In Progress,2025-09-30
+A0137,Mechanical work package 137,WBS.03.04,Mechanical,Area A,2025-05-01,2025-09-03,2025-05-01,,125,613.8,0.96,In Progress,2025-09-30
+A0138,Piping work package 138,WBS.03.04,Piping,Area A,2025-10-31,2026-03-13,,,133,1421.3,0.0,Not Started,2025-09-30
+A0139,Electrical work package 139,WBS.03.04,Electrical,Area A,2025-09-28,2026-01-20,,,114,1042.6,0.0,Not Started,2025-09-30
+A0140,Instrumentation work package 140,WBS.03.04,Instrumentation,Area A,2025-01-20,2025-02-28,2025-01-20,,39,762.7,0.96,In Progress,2025-09-30
+A0141,Civil work package 141,WBS.03.05,Civil,Area B,2025-03-19,2025-04-30,2025-03-19,,42,1174.7,0.9923,In Progress,2025-09-30
+A0142,Mechanical work package 142,WBS.03.05,Mechanical,Area B,2025-11-09,2026-03-15,,,126,663.9,0.0,Not Started,2025-09-30
+A0143,Piping work package 143,WBS.03.05,Piping,Area B,2025-08-20,2025-12-15,2025-08-20,,117,220.4,0.3028,In Progress,2025-09-30
+A0144,Electrical work package 144,WBS.03.05,Electrical,Area B,2026-03-01,2026-05-10,,,70,393.2,0.0,Not Started,2025-09-30
+A0145,Instrumentation work package 145,WBS.03.05,Instrumentation,Area B,2025-04-14,2025-09-10,2025-04-14,,149,1756.6,0.96,In Progress,2025-09-30
+A0146,Civil work package 146,WBS.03.05,Civil,Area C,2026-01-14,2026-05-11,,,117,1357.5,0.0,Not Started,2025-09-30
+A0147,Mechanical work package 147,WBS.03.05,Mechanical,Area C,2025-07-13,2025-11-07,2025-07-13,,117,917.1,0.6499,In Progress,2025-09-30
+A0148,Piping work package 148,WBS.03.05,Piping,Area C,2026-02-02,2026-03-29,,,55,1151.5,0.0,Not Started,2025-09-30
+A0149,Electrical work package 149,WBS.03.05,Electrical,Area C,2025-03-24,2025-05-21,2025-03-24,,58,1750.8,0.96,In Progress,2025-09-30
+A0150,Instrumentation work package 150,WBS.03.05,Instrumentation,Area C,2025-07-16,2025-10-15,2025-07-16,,91,697.9,0.8278,In Progress,2025-09-30
+A0151,Civil work package 151,WBS.04.01,Civil,Area A,2025-12-04,2026-01-18,,,45,1748.1,0.0,Not Started,2025-09-30
+A0152,Mechanical work package 152,WBS.04.01,Mechanical,Area A,2025-07-10,2025-09-07,2025-07-10,2025-09-07,59,1141.5,1.0,Complete,2025-09-30
+A0153,Piping work package 153,WBS.04.01,Piping,Area A,2026-01-03,2026-05-09,,,126,1086.8,0.0,Not Started,2025-09-30
+A0154,Electrical work package 154,WBS.04.01,Electrical,Area A,2025-08-22,2026-01-11,2025-08-22,,142,147.7,0.183,In Progress,2025-09-30
+A0155,Instrumentation work package 155,WBS.04.01,Instrumentation,Area A,2025-01-23,2025-03-11,2025-01-23,,47,1777.0,0.9696,In Progress,2025-09-30
+A0156,Civil work package 156,WBS.04.01,Civil,Area B,2025-08-04,2025-11-22,2025-08-04,,110,320.2,0.4021,In Progress,2025-09-30
+A0157,Mechanical work package 157,WBS.04.01,Mechanical,Area B,2026-02-27,2026-04-09,,,41,1236.9,0.0,Not Started,2025-09-30
+A0158,Piping work package 158,WBS.04.01,Piping,Area B,2026-02-16,2026-06-07,,,111,935.1,0.0,Not Started,2025-09-30
+A0159,Electrical work package 159,WBS.04.01,Electrical,Area B,2025-04-08,2025-07-26,2025-04-08,,109,757.4,0.978,In Progress,2025-09-30
+A0160,Instrumentation work package 160,WBS.04.01,Instrumentation,Area B,2026-01-15,2026-05-18,,,123,1055.3,0.0,Not Started,2025-09-30
+A0161,Civil work package 161,WBS.04.02,Civil,Area C,2025-12-19,2026-04-19,,,121,1452.2,0.0,Not Started,2025-09-30
+A0162,Mechanical work package 162,WBS.04.02,Mechanical,Area C,2025-05-25,2025-08-06,2025-05-25,,73,761.4,0.96,In Progress,2025-09-30
+A0163,Piping work package 163,WBS.04.02,Piping,Area C,2025-04-13,2025-05-21,2025-04-13,,38,1117.9,0.9656,In Progress,2025-09-30
+A0164,Electrical work package 164,WBS.04.02,Electrical,Area C,2025-08-17,2025-11-12,2025-08-17,,87,124.1,0.5154,In Progress,2025-09-30
+A0165,Instrumentation work package 165,WBS.04.02,Instrumentation,Area C,2025-09-24,2026-01-23,2025-09-24,,121,1478.3,0.0473,In Progress,2025-09-30
+A0166,Civil work package 166,WBS.04.02,Civil,Area A,2025-01-31,2025-06-22,2025-01-31,,142,684.8,0.96,In Progress,2025-09-30
+A0167,Mechanical work package 167,WBS.04.02,Mechanical,Area A,2025-12-17,2026-03-21,,,94,615.4,0.0,Not Started,2025-09-30
+A0168,Piping work package 168,WBS.04.02,Piping,Area A,2025-03-24,2025-07-13,2025-03-24,,111,392.1,0.96,In Progress,2025-09-30
+A0169,Electrical work package 169,WBS.04.02,Electrical,Area A,2026-02-24,2026-05-23,,,88,1466.3,0.0,Not Started,2025-09-30
+A0170,Instrumentation work package 170,WBS.04.02,Instrumentation,Area A,2025-12-24,2026-05-09,,,136,472.3,0.0,Not Started,2025-09-30
+A0171,Civil work package 171,WBS.04.03,Civil,Area B,2025-12-07,2026-02-07,,,62,1494.9,0.0,Not Started,2025-09-30
+A0172,Mechanical work package 172,WBS.04.03,Mechanical,Area B,2025-09-15,2025-11-04,2025-09-15,,50,1347.4,0.3019,In Progress,2025-09-30
+A0173,Piping work package 173,WBS.04.03,Piping,Area B,2025-09-24,2025-12-28,2025-09-24,,95,478.9,0.0984,In Progress,2025-09-30
+A0174,Electrical work package 174,WBS.04.03,Electrical,Area B,2025-07-09,2025-11-02,2025-07-09,,116,1271.0,0.7448,In Progress,2025-09-30
+A0175,Instrumentation work package 175,WBS.04.03,Instrumentation,Area B,2025-02-11,2025-06-28,2025-02-11,,137,410.0,0.96,In Progress,2025-09-30
+A0176,Civil work package 176,WBS.04.03,Civil,Area C,2025-02-04,2025-06-10,2025-02-04,,126,482.0,0.96,In Progress,2025-09-30
+A0177,Mechanical work package 177,WBS.04.03,Mechanical,Area C,2025-05-29,2025-09-16,2025-05-29,,110,1789.9,0.9708,In Progress,2025-09-30
+A0178,Piping work package 178,WBS.04.03,Piping,Area C,2025-09-04,2026-01-26,2025-09-04,,144,381.5,0.1541,In Progress,2025-09-30
+A0179,Electrical work package 179,WBS.04.03,Electrical,Area C,2025-11-27,2026-02-06,,,71,1223.6,0.0,Not Started,2025-09-30
+A0180,Instrumentation work package 180,WBS.04.03,Instrumentation,Area C,2025-08-18,2025-11-30,2025-08-18,,104,233.3,0.4348,In Progress,2025-09-30
+A0181,Civil work package 181,WBS.04.04,Civil,Area A,2025-01-21,2025-03-28,2025-01-21,,66,532.6,0.96,In Progress,2025-09-30
+A0182,Mechanical work package 182,WBS.04.04,Mechanical,Area A,2025-09-21,2025-12-21,2025-09-21,,91,1661.4,0.0851,In Progress,2025-09-30
+A0183,Piping work package 183,WBS.04.04,Piping,Area A,2026-01-14,2026-05-20,,,126,1438.9,0.0,Not Started,2025-09-30
+A0184,Electrical work package 184,WBS.04.04,Electrical,Area A,2025-06-03,2025-10-28,2025-06-03,,147,1182.5,0.8309,In Progress,2025-09-30
+A0185,Instrumentation work package 185,WBS.04.04,Instrumentation,Area A,2025-03-22,2025-06-20,2025-03-22,,90,765.7,0.96,In Progress,2025-09-30
+A0186,Civil work package 186,WBS.04.04,Civil,Area B,2026-02-25,2026-05-17,,,81,616.3,0.0,Not Started,2025-09-30
+A0187,Mechanical work package 187,WBS.04.04,Mechanical,Area B,2025-09-29,2026-01-15,,,108,341.5,0.0,Not Started,2025-09-30
+A0188,Piping work package 188,WBS.04.04,Piping,Area B,2026-03-04,2026-05-01,,,58,324.7,0.0,Not Started,2025-09-30
+A0189,Electrical work package 189,WBS.04.04,Electrical,Area B,2025-08-13,2026-01-09,2025-08-13,,149,1480.0,0.3331,In Progress,2025-09-30
+A0190,Instrumentation work package 190,WBS.04.04,Instrumentation,Area B,2025-03-03,2025-07-17,2025-03-03,,136,853.6,0.96,In Progress,2025-09-30
+A0191,Civil work package 191,WBS.04.05,Civil,Area C,2025-12-02,2026-01-02,,,31,795.8,0.0,Not Started,2025-09-30
+A0192,Mechanical work package 192,WBS.04.05,Mechanical,Area C,2025-01-11,2025-03-10,2025-01-11,,58,1758.5,0.98,In Progress,2025-09-30
+A0193,Piping work package 193,WBS.04.05,Piping,Area C,2025-07-20,2025-11-28,2025-07-20,,131,248.7,0.5552,In Progress,2025-09-30
+A0194,Electrical work package 194,WBS.04.05,Electrical,Area C,2025-06-16,2025-09-01,2025-06-16,2025-09-01,77,870.2,1.0,Complete,2025-09-30
+A0195,Instrumentation work package 195,WBS.04.05,Instrumentation,Area C,2025-04-25,2025-09-02,2025-04-25,2025-09-02,130,146.1,1.0,Complete,2025-09-30
+A0196,Civil work package 196,WBS.04.05,Civil,Area A,2025-10-06,2026-01-17,,,103,194.6,0.0,Not Started,2025-09-30
+A0197,Mechanical work package 197,WBS.04.05,Mechanical,Area A,2025-01-23,2025-03-04,2025-01-23,,40,1312.1,0.96,In Progress,2025-09-30
+A0198,Piping work package 198,WBS.04.05,Piping,Area A,2025-10-17,2025-12-08,,,52,379.5,0.0,Not Started,2025-09-30
+A0199,Electrical work package 199,WBS.04.05,Electrical,Area A,2025-10-01,2025-12-15,,,75,433.8,0.0,Not Started,2025-09-30
+A0200,Instrumentation work package 200,WBS.04.05,Instrumentation,Area A,2025-01-24,2025-06-19,2025-01-24,,146,1453.8,0.96,In Progress,2025-09-30
+A0201,Civil work package 201,WBS.05.01,Civil,Area B,2025-12-21,2026-04-08,,,108,300.3,0.0,Not Started,2025-09-30
+A0202,Mechanical work package 202,WBS.05.01,Mechanical,Area B,2026-02-15,2026-04-14,,,58,289.0,0.0,Not Started,2025-09-30
+A0203,Piping work package 203,WBS.05.01,Piping,Area B,2026-01-11,2026-05-22,,,131,1660.6,0.0,Not Started,2025-09-30
+A0204,Electrical work package 204,WBS.05.01,Electrical,Area B,2025-12-05,2026-03-23,,,108,385.2,0.0,Not Started,2025-09-30
+A0205,Instrumentation work package 205,WBS.05.01,Instrumentation,Area B,2025-08-11,2025-12-19,2025-08-11,,130,1340.4,0.3193,In Progress,2025-09-30
+A0206,Civil work package 206,WBS.05.01,Civil,Area C,2025-10-29,2026-03-12,,,134,1174.4,0.0,Not Started,2025-09-30
+A0207,Mechanical work package 207,WBS.05.01,Mechanical,Area C,2025-12-16,2026-02-08,,,54,1034.7,0.0,Not Started,2025-09-30
+A0208,Piping work package 208,WBS.05.01,Piping,Area C,2025-09-01,2025-10-01,2025-09-01,,30,1388.9,0.811,In Progress,2025-09-30
+A0209,Electrical work package 209,WBS.05.01,Electrical,Area C,2025-05-26,2025-07-12,2025-05-26,2025-07-12,47,605.6,1.0,Complete,2025-09-30
+A0210,Instrumentation work package 210,WBS.05.01,Instrumentation,Area C,2025-06-23,2025-09-10,2025-06-23,,79,1276.5,0.96,In Progress,2025-09-30
+A0211,Civil work package 211,WBS.05.02,Civil,Area A,2025-10-09,2025-11-15,,,37,1077.6,0.0,Not Started,2025-09-30
+A0212,Mechanical work package 212,WBS.05.02,Mechanical,Area A,2025-05-02,2025-09-08,2025-05-02,,129,937.0,0.96,In Progress,2025-09-30
+A0213,Piping work package 213,WBS.05.02,Piping,Area A,2025-12-11,2026-03-13,,,92,837.1,0.0,Not Started,2025-09-30
+A0214,Electrical work package 214,WBS.05.02,Electrical,Area A,2025-09-20,2026-01-16,2025-09-20,,118,1797.2,0.1022,In Progress,2025-09-30
+A0215,Instrumentation work package 215,WBS.05.02,Instrumentation,Area A,2025-02-25,2025-05-15,2025-02-25,,79,1524.5,0.96,In Progress,2025-09-30
+A0216,Civil work package 216,WBS.05.02,Civil,Area B,2025-05-29,2025-07-01,2025-05-29,2025-07-01,33,121.6,1.0,Complete,2025-09-30
+A0217,Mechanical work package 217,WBS.05.02,Mechanical,Area B,2025-04-27,2025-07-17,2025-04-27,,81,1581.1,0.96,In Progress,2025-09-30
+A0218,Piping work package 218,WBS.05.02,Piping,Area B,2025-03-04,2025-04-12,2025-03-04,,39,1332.1,0.96,In Progress,2025-09-30
+A0219,Electrical work package 219,WBS.05.02,Electrical,Area B,2025-09-25,2025-11-10,2025-09-25,,46,1372.4,0.0849,In Progress,2025-09-30
+A0220,Instrumentation work package 220,WBS.05.02,Instrumentation,Area B,2026-01-30,2026-03-30,,,59,547.8,0.0,Not Started,2025-09-30
+A0221,Civil work package 221,WBS.05.03,Civil,Area C,2025-01-20,2025-02-26,2025-01-20,,37,1639.1,0.96,In Progress,2025-09-30
+A0222,Mechanical work package 222,WBS.05.03,Mechanical,Area C,2025-01-15,2025-05-04,2025-01-15,,109,1737.0,0.96,In Progress,2025-09-30
+A0223,Piping work package 223,WBS.05.03,Piping,Area C,2025-04-01,2025-07-07,2025-04-01,2025-07-07,97,878.0,1.0,Complete,2025-09-30
+A0224,Electrical work package 224,WBS.05.03,Electrical,Area C,2026-01-06,2026-04-13,,,97,980.2,0.0,Not Started,2025-09-30
+A0225,Instrumentation work package 225,WBS.05.03,Instrumentation,Area C,2025-08-27,2025-10-05,2025-08-27,,39,868.3,0.7868,In Progress,2025-09-30
+A0226,Civil work package 226,WBS.05.03,Civil,Area A,2025-10-12,2026-01-15,,,95,187.1,0.0,Not Started,2025-09-30
+A0227,Mechanical work package 227,WBS.05.03,Mechanical,Area A,2025-03-17,2025-05-25,2025-03-17,,69,1381.6,0.96,In Progress,2025-09-30
+A0228,Piping work package 228,WBS.05.03,Piping,Area A,2026-03-05,2026-06-30,,,122,126.7,0.0,Not Started,2025-09-30
+A0229,Electrical work package 229,WBS.05.03,Electrical,Area A,2025-02-20,2025-06-08,2025-02-20,,108,1494.0,0.96,In Progress,2025-09-30
+A0230,Instrumentation work package 230,WBS.05.03,Instrumentation,Area A,2025-09-11,2025-12-26,2025-09-11,,106,1452.4,0.1421,In Progress,2025-09-30
+A0231,Civil work package 231,WBS.05.04,Civil,Area B,2025-12-13,2026-02-19,,,68,1554.3,0.0,Not Started,2025-09-30
+A0232,Mechanical work package 232,WBS.05.04,Mechanical,Area B,2025-07-14,2025-10-25,2025-07-14,,103,223.6,0.786,In Progress,2025-09-30
+A0233,Piping work package 233,WBS.05.04,Piping,Area B,2026-03-05,2026-06-23,,,110,1171.6,0.0,Not Started,2025-09-30
+A0234,Electrical work package 234,WBS.05.04,Electrical,Area B,2025-11-11,2026-03-27,,,136,216.6,0.0,Not Started,2025-09-30
+A0235,Instrumentation work package 235,WBS.05.04,Instrumentation,Area B,2025-11-07,2026-01-13,,,67,890.4,0.0,Not Started,2025-09-30
+A0236,Civil work package 236,WBS.05.04,Civil,Area C,2025-05-30,2025-07-19,2025-05-30,,50,1304.7,0.9869,In Progress,2025-09-30
+A0237,Mechanical work package 237,WBS.05.04,Mechanical,Area C,2025-07-18,2025-11-14,2025-07-18,,119,1200.0,0.5981,In Progress,2025-09-30
+A0238,Piping work package 238,WBS.05.04,Piping,Area C,2025-10-05,2025-11-19,,,45,1243.0,0.0,Not Started,2025-09-30
+A0239,Electrical work package 239,WBS.05.04,Electrical,Area C,2025-04-13,2025-08-21,2025-04-13,,130,560.4,0.96,In Progress,2025-09-30
+A0240,Instrumentation work package 240,WBS.05.04,Instrumentation,Area C,2025-01-20,2025-03-27,2025-01-20,2025-03-27,66,1203.4,1.0,Complete,2025-09-30
+A0241,Civil work package 241,WBS.05.05,Civil,Area A,2025-04-27,2025-09-12,2025-04-27,,138,1233.7,0.96,In Progress,2025-09-30
+A0242,Mechanical work package 242,WBS.05.05,Mechanical,Area A,2025-08-29,2025-11-12,2025-08-29,,75,1760.1,0.3655,In Progress,2025-09-30
+A0243,Piping work package 243,WBS.05.05,Piping,Area A,2025-05-06,2025-09-16,2025-05-06,2025-09-16,133,582.6,1.0,Complete,2025-09-30
+A0244,Electrical work package 244,WBS.05.05,Electrical,Area A,2025-12-28,2026-03-01,,,63,1581.1,0.0,Not Started,2025-09-30
+A0245,Instrumentation work package 245,WBS.05.05,Instrumentation,Area A,2025-01-11,2025-04-07,2025-01-11,2025-04-07,86,598.2,1.0,Complete,2025-09-30
+A0246,Civil work package 246,WBS.05.05,Civil,Area B,2026-01-24,2026-03-17,,,52,215.8,0.0,Not Started,2025-09-30
+A0247,Mechanical work package 247,WBS.05.05,Mechanical,Area B,2025-02-15,2025-07-04,2025-02-15,2025-07-04,139,1231.0,1.0,Complete,2025-09-30
+A0248,Piping work package 248,WBS.05.05,Piping,Area B,2025-05-22,2025-08-12,2025-05-22,,82,1411.1,0.9913,In Progress,2025-09-30
+A0249,Electrical work package 249,WBS.05.05,Electrical,Area B,2025-09-17,2026-01-09,2025-09-17,,114,488.4,0.1025,In Progress,2025-09-30
+A0250,Instrumentation work package 250,WBS.05.05,Instrumentation,Area B,2026-02-18,2026-05-31,,,102,1359.0,0.0,Not Started,2025-09-30
+A0251,Civil work package 251,WBS.06.01,Civil,Area C,2025-07-28,2025-09-01,2025-07-28,,35,320.8,0.96,In Progress,2025-09-30
+A0252,Mechanical work package 252,WBS.06.01,Mechanical,Area C,2025-04-05,2025-07-05,2025-04-05,,91,89.5,0.96,In Progress,2025-09-30
+A0253,Piping work package 253,WBS.06.01,Piping,Area C,2025-08-14,2025-10-18,2025-08-14,,65,1682.6,0.639,In Progress,2025-09-30
+A0254,Electrical work package 254,WBS.06.01,Electrical,Area C,2025-08-12,2025-12-24,2025-08-12,,134,928.9,0.3193,In Progress,2025-09-30
+A0255,Instrumentation work package 255,WBS.06.01,Instrumentation,Area C,2026-01-31,2026-05-26,,,115,1125.6,0.0,Not Started,2025-09-30
+A0256,Civil work package 256,WBS.06.01,Civil,Area A,2025-02-24,2025-05-11,2025-02-24,,76,864.7,0.96,In Progress,2025-09-30
+A0257,Mechanical work package 257,WBS.06.01,Mechanical,Area A,2025-02-09,2025-04-22,2025-02-09,,72,1699.8,0.9742,In Progress,2025-09-30
+A0258,Piping work package 258,WBS.06.01,Piping,Area A,2025-10-06,2026-02-22,,,139,1133.6,0.0,Not Started,2025-09-30
+A0259,Electrical work package 259,WBS.06.01,Electrical,Area A,2025-01-11,2025-04-01,2025-01-11,,80,587.5,0.96,In Progress,2025-09-30
+A0260,Instrumentation work package 260,WBS.06.01,Instrumentation,Area A,2025-06-02,2025-09-27,2025-06-02,2025-09-27,117,1201.9,1.0,Complete,2025-09-30
+A0261,Civil work package 261,WBS.06.02,Civil,Area B,2025-05-17,2025-09-18,2025-05-17,2025-09-18,124,847.8,1.0,Complete,2025-09-30
+A0262,Mechanical work package 262,WBS.06.02,Mechanical,Area B,2025-05-23,2025-08-30,2025-05-23,,99,718.4,0.96,In Progress,2025-09-30
+A0263,Piping work package 263,WBS.06.02,Piping,Area B,2025-07-10,2025-08-26,2025-07-10,,47,1611.0,0.96,In Progress,2025-09-30
+A0264,Electrical work package 264,WBS.06.02,Electrical,Area B,2025-07-01,2025-09-06,2025-07-01,,67,1244.6,0.9663,In Progress,2025-09-30
+A0265,Instrumentation work package 265,WBS.06.02,Instrumentation,Area B,2025-10-28,2025-12-13,,,46,915.2,0.0,Not Started,2025-09-30
+A0266,Civil work package 266,WBS.06.02,Civil,Area C,2025-01-19,2025-04-05,2025-01-19,,76,355.2,0.96,In Progress,2025-09-30
+A0267,Mechanical work package 267,WBS.06.02,Mechanical,Area C,2025-02-24,2025-07-18,2025-02-24,2025-07-18,144,620.0,1.0,Complete,2025-09-30
+A0268,Piping work package 268,WBS.06.02,Piping,Area C,2025-06-20,2025-08-29,2025-06-20,,70,1011.2,0.96,In Progress,2025-09-30
+A0269,Electrical work package 269,WBS.06.02,Electrical,Area C,2025-07-14,2025-09-18,2025-07-14,,66,526.1,0.96,In Progress,2025-09-30
+A0270,Instrumentation work package 270,WBS.06.02,Instrumentation,Area C,2025-09-12,2025-10-28,2025-09-12,,46,843.8,0.4262,In Progress,2025-09-30
+A0271,Civil work package 271,WBS.06.03,Civil,Area A,2025-09-29,2025-11-22,2025-09-29,,54,759.6,0.027,In Progress,2025-09-30
+A0272,Mechanical work package 272,WBS.06.03,Mechanical,Area A,2025-08-23,2026-01-04,2025-08-23,,134,304.7,0.2749,In Progress,2025-09-30
+A0273,Piping work package 273,WBS.06.03,Piping,Area A,2026-02-15,2026-04-03,,,47,875.8,0.0,Not Started,2025-09-30
+A0274,Electrical work package 274,WBS.06.03,Electrical,Area A,2025-05-08,2025-07-01,2025-05-08,,54,1390.3,0.96,In Progress,2025-09-30
+A0275,Instrumentation work package 275,WBS.06.03,Instrumentation,Area A,2026-03-03,2026-05-20,,,78,1503.3,0.0,Not Started,2025-09-30
+A0276,Civil work package 276,WBS.06.03,Civil,Area B,2026-01-08,2026-03-31,,,82,1536.8,0.0,Not Started,2025-09-30
+A0277,Mechanical work package 277,WBS.06.03,Mechanical,Area B,2025-01-14,2025-04-11,2025-01-14,,87,1262.9,0.96,In Progress,2025-09-30
+A0278,Piping work package 278,WBS.06.03,Piping,Area B,2025-12-17,2026-02-18,,,63,442.4,0.0,Not Started,2025-09-30
+A0279,Electrical work package 279,WBS.06.03,Electrical,Area B,2025-11-20,2026-01-06,,,47,1375.9,0.0,Not Started,2025-09-30
+A0280,Instrumentation work package 280,WBS.06.03,Instrumentation,Area B,2025-02-13,2025-05-12,2025-02-13,,88,213.6,0.96,In Progress,2025-09-30
+A0281,Civil work package 281,WBS.06.04,Civil,Area C,2025-12-19,2026-05-11,,,143,204.4,0.0,Not Started,2025-09-30
+A0282,Mechanical work package 282,WBS.06.04,Mechanical,Area C,2025-12-13,2026-04-06,,,114,166.4,0.0,Not Started,2025-09-30
+A0283,Piping work package 283,WBS.06.04,Piping,Area C,2025-12-17,2026-05-07,,,141,776.8,0.0,Not Started,2025-09-30
+A0284,Electrical work package 284,WBS.06.04,Electrical,Area C,2026-03-02,2026-06-12,,,102,695.4,0.0,Not Started,2025-09-30
+A0285,Instrumentation work package 285,WBS.06.04,Instrumentation,Area C,2025-02-05,2025-05-27,2025-02-05,2025-05-27,111,496.1,1.0,Complete,2025-09-30
+A0286,Civil work package 286,WBS.06.04,Civil,Area A,2025-03-08,2025-07-09,2025-03-08,,123,546.8,0.96,In Progress,2025-09-30
+A0287,Mechanical work package 287,WBS.06.04,Mechanical,Area A,2025-11-23,2026-01-30,,,68,80.2,0.0,Not Started,2025-09-30
+A0288,Piping work package 288,WBS.06.04,Piping,Area A,2025-05-21,2025-07-02,2025-05-21,,42,699.6,0.96,In Progress,2025-09-30
+A0289,Electrical work package 289,WBS.06.04,Electrical,Area A,2025-07-11,2025-11-27,2025-07-11,,139,729.0,0.6037,In Progress,2025-09-30
+A0290,Instrumentation work package 290,WBS.06.04,Instrumentation,Area A,2025-10-05,2026-01-27,,,114,87.5,0.0,Not Started,2025-09-30
+A0291,Civil work package 291,WBS.06.05,Civil,Area B,2025-05-14,2025-06-25,2025-05-14,,42,1424.7,0.9832,In Progress,2025-09-30
+A0292,Mechanical work package 292,WBS.06.05,Mechanical,Area B,2025-07-11,2025-10-03,2025-07-11,,84,439.3,0.9088,In Progress,2025-09-30
+A0293,Piping work package 293,WBS.06.05,Piping,Area B,2025-12-25,2026-05-06,,,132,444.6,0.0,Not Started,2025-09-30
+A0294,Electrical work package 294,WBS.06.05,Electrical,Area B,2025-09-24,2025-11-28,2025-09-24,,65,315.0,0.1306,In Progress,2025-09-30
+A0295,Instrumentation work package 295,WBS.06.05,Instrumentation,Area B,2025-11-08,2025-12-31,,,53,1611.2,0.0,Not Started,2025-09-30
+A0296,Civil work package 296,WBS.06.05,Civil,Area C,2025-05-01,2025-09-08,2025-05-01,,130,105.3,0.96,In Progress,2025-09-30
+A0297,Mechanical work package 297,WBS.06.05,Mechanical,Area C,2025-08-22,2025-12-01,2025-08-22,,101,97.1,0.3857,In Progress,2025-09-30
+A0298,Piping work package 298,WBS.06.05,Piping,Area C,2025-12-04,2026-04-05,,,122,976.6,0.0,Not Started,2025-09-30
+A0299,Electrical work package 299,WBS.06.05,Electrical,Area C,2025-01-13,2025-03-19,2025-01-13,,65,1409.8,0.96,In Progress,2025-09-30
+A0300,Instrumentation work package 300,WBS.06.05,Instrumentation,Area C,2026-01-05,2026-02-06,,,32,1625.5,0.0,Not Started,2025-09-30

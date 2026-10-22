@@ -1,0 +1,13 @@
+Budgeted Units = SUM('Activities'[Budgeted Labor Units])
+
+Planned Progress = DIVIDE(SUMX('Activities', 'Activities'[Budgeted Labor Units] * 'Activities'[Planned %]), [Budgeted Units])
+
+Actual Progress = DIVIDE(SUMX('Activities', 'Activities'[Budgeted Labor Units] * 'Activities'[Physical % Complete]), [Budgeted Units])
+
+Variance Points = ([Actual Progress] - [Planned Progress]) * 100
+
+SPI = DIVIDE([Actual Progress], [Planned Progress])
+
+Late Activities = CALCULATE(COUNTROWS('Activities'), 'Activities'[Activity Status] <> "Complete", 'Activities'[BL Finish] < MAX('Calendar'[Date]))
+
+SPI Status = SWITCH(TRUE(), [SPI] >= 1, "Green", [SPI] >= 0.9, "Amber", "Red")

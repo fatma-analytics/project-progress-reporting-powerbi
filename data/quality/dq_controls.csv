@@ -1,0 +1,7 @@
+Control,Issue Count,Status,Action
+Physical % > 100,1,REVIEW,bloquer la publication et borner après correction
+Completed without Finish,1,REVIEW,compléter la date de fin ou repasser en In Progress
+BL Finish before BL Start,1,REVIEW,corriger les dates dans P6
+Missing Discipline,1,REVIEW,renseigner la discipline ou affecter Unassigned
+Duplicate Activity ID,1,REVIEW,dédupliquer avant chargement
+Missing Data Date,0,PASS,rejeter un snapshot sans Data Date

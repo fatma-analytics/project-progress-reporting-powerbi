@@ -1,0 +1,15 @@
+{
+  "activities_raw": 300,
+  "activities_clean": 299,
+  "disciplines": 6,
+  "areas": 3,
+  "snapshots": 4,
+  "data_date": "2025-09-30",
+  "planned_pct": 53.4,
+  "actual_pct": 49.3,
+  "variance_pts": -4.1,
+  "spi": 0.922,
+  "quality_controls": 6,
+  "quality_issues": 5,
+  "workbook_sheets": 5
+}
